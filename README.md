@@ -23,22 +23,31 @@
 
 </div>
 
-```ini
-; ── [ANDROMEDA CORE RUNTIME] ──────────────────────────────────────────────────────────
-[HOST_CONFIG]
-OPERATOR     = "Minerky"
-ROLE         = "Software QA Engineer & Full-Stack Systems Architect"
-ENVIRONMENT  = "Production Terminal / Zero-Defect Pipeline"
-PHILOSOPHY   = "Deterministic quality through exhaustive testing & clean architecture."
-PIPELINE     = "Playwright E2E · GitHub Actions · TypeScript · Node.js · Python Engine"
-LOCATION     = "Indonesia (UTC+7) [Remote Active]"
-```
+<br/>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left"><font color="#00e8c6">⚡ ANDROMEDA CORE CONFIGURATION</font></th>
+      <th align="right"><font color="#717cb4">ENV: PRODUCTION / TTY_0</font></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <font color="#ffe66d"><b>OPERATOR</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: <font color="#f8fafc">Minerky</font><br/>
+        <font color="#ffe66d"><b>ROLE</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: <font color="#00e8c6">Software QA Engineer & Full-Stack Systems Architect</font><br/>
+        <font color="#ffe66d"><b>PHILOSOPHY</b></font> &nbsp;&nbsp;&nbsp;&nbsp;:: <font color="#94a3b8">"Deterministic quality through exhaustive testing & clean architecture."</font><br/>
+        <font color="#ffe66d"><b>CORE PIPELINE</b></font> &nbsp;:: <font color="#ee5d43">Playwright E2E</font> · <font color="#c74ded">GitHub Actions</font> · <font color="#ffe66d">TypeScript</font> · <font color="#00e8c6">Node.js</font> · <font color="#ffe66d">Python</font><br/>
+        <font color="#ffe66d"><b>LOCATION</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: <font color="#f8fafc">Indonesia (UTC+7)</font> <font color="#00e8c6">[Remote Active]</font>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-```ini
-; ── [01] TECHNICAL ARSENAL & RUNTIME PACKAGES ─────────────────────────────────────────
-```
+### ✦ <font color="#00e8c6">[01]</font> <font color="#ffe66d">TECHNICAL ARSENAL</font> <font color="#717cb4">& RUNTIME PACKAGES</font>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -48,34 +57,44 @@ LOCATION     = "Indonesia (UTC+7) [Remote Active]"
 
 <br/>
 
-```yaml
-# andromeda_packages.yml — System Layer Definitions
-qa_automation:
-  engine: "Playwright"
-  tools: ["Jest", "Vitest", "Postman", "HTTP Client"]
-  methodologies: "Autonomous E2E Suites · Boundary & Stress Probes · Contract Gating"
-
-frontend_architecture:
-  languages: ["TypeScript", "JavaScript (ESNext)"]
-  frameworks: ["React", "Next.js", "Tailwind CSS"]
-  standards: "Modular Component Hierarchy · High-Performance State Telemetry"
-
-backend_services:
-  runtime: ["Node.js", "Python"]
-  storage: ["PostgreSQL", "Structured SQL Engines"]
-  api_design: "RESTful Endpoints · Strict Schema Validation"
-
-devops_infrastructure:
-  ci_cd: "GitHub Actions Automated Pipelines"
-  containers: ["Docker", "Sandboxed Test Runners"]
-  os_shell: "Linux CLI · Zsh / Bash Telemetry · Git Ops"
-```
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="left"><font color="#00e8c6">🛡️ QA & AUTOMATION</font></th>
+      <th width="33%" align="left"><font color="#ffe66d">💻 FULL-STACK SYSTEMS</font></th>
+      <th width="33%" align="left"><font color="#ee5d43">⚡ CI/CD & TELEMETRY</font></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        • <font color="#00e8c6"><b>Engine:</b></font> Playwright Autonomous<br/>
+        • <font color="#00e8c6"><b>Testing:</b></font> Jest · Vitest · Postman<br/>
+        • <font color="#00e8c6"><b>API Audit:</b></font> Contract & Schema Gating<br/>
+        • <font color="#00e8c6"><b>Chaos Probe:</b></font> Boundary & Stress Suites<br/>
+        • <font color="#00e8c6"><b>Standard:</b></font> Zero-Defect Delivery
+      </td>
+      <td valign="top">
+        • <font color="#ffe66d"><b>Languages:</b></font> TypeScript · JavaScript · Python<br/>
+        • <font color="#ffe66d"><b>Frontend:</b></font> React · Next.js · Tailwind<br/>
+        • <font color="#ffe66d"><b>Backend:</b></font> Node.js · RESTful Services<br/>
+        • <font color="#ffe66d"><b>Database:</b></font> PostgreSQL · SQL Engines<br/>
+        • <font color="#ffe66d"><b>Patterns:</b></font> Modular State Architecture
+      </td>
+      <td valign="top">
+        • <font color="#ee5d43"><b>CI/CD:</b></font> GitHub Actions Pipelines<br/>
+        • <font color="#ee5d43"><b>Containers:</b></font> Docker Test Runners<br/>
+        • <font color="#ee5d43"><b>CLI Shell:</b></font> Linux · Bash · Git Ops<br/>
+        • <font color="#ee5d43"><b>Telemetry:</b></font> TradingView CDP Telemetry<br/>
+        • <font color="#ee5d43"><b>Release:</b></font> Automated Release Gates
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-```ini
-; ── [02] ZERO-DEFECT QUALITY ASSURANCE PIPELINE ───────────────────────────────────────
-```
+### ✦ <font color="#00e8c6">[02]</font> <font color="#ffe66d">ZERO-DEFECT</font> <font color="#ee5d43">QUALITY ASSURANCE PIPELINE</font>
 
 ```diff
 + [STAGE 01: STATIC AUDIT]      + [STAGE 02: E2E ENGINE]        + [STAGE 03: CHAOS & BOUNDARY]      + [STAGE 04: RELEASE]
@@ -87,43 +106,58 @@ devops_infrastructure:
 
 <br/>
 
-```ini
-; ── [03] FLAGSHIP REPOSITORIES & DEPLOYMENTS ──────────────────────────────────────────
-```
+### ✦ <font color="#00e8c6">[03]</font> <font color="#ffe66d">FLAGSHIP REPOSITORIES</font> <font color="#717cb4">& DEPLOYMENTS</font>
 
-```yaml
-# deployments.spec.yml — Flagship Systems Catalog
-
-SYS_01:
-  name: "qa-e2e-tester"
-  uri: "https://github.com/Minerky/qa-e2e-tester"
-  stack: ["TypeScript", "Playwright", "GitHub Actions CI/CD"]
-  highlight: "Autonomous E2E testing pipeline engine featuring intelligent element discovery, boundary stress testing, and structured report synthesis."
-
-SYS_02:
-  name: "forex-intelligence-terminal"
-  uri: "https://github.com/Minerky/forex-intelligence-terminal"
-  stack: ["JavaScript (ESNext)", "REST API", "Market Analytics"]
-  highlight: "Real-time financial telemetry dashboard engineered for multi-timeframe indicator scanning, quantitative signals, and market structure analytics."
-
-SYS_03:
-  name: "forex-signal-terminal"
-  uri: "https://github.com/Minerky/forex-signal-terminal"
-  stack: ["Python", "TradingView CDP", "Quant Execution"]
-  highlight: "Quantitative strategy engine calculating technical trend bias, liquidity boundaries, and automated risk-reward execution rules."
-
-SYS_04:
-  name: "Ezky-Bookstore"
-  uri: "https://github.com/Minerky/Ezky-Bookstore"
-  stack: ["React", "Node.js", "Tailwind CSS", "SQL Database"]
-  highlight: "Production-ready web application engineered with modular state flow, responsive layout components, strict schema validation, and SQL models."
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/Minerky/qa-e2e-tester"><font color="#00e8c6">qa-e2e-tester</font></a></h4>
+      <p><em><font color="#ffe66d">Autonomous QA Engine & Spec Generator</font></em></p>
+      <p><font color="#94a3b8">Engineered for exhaustive web and API validation. Features intelligent element discovery, boundary stress testing, automated schema validation, and instant test report generation.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/Playwright-E2E-00e8c6?style=flat-square&logo=playwright&logoColor=232635" />
+        <img src="https://img.shields.io/badge/TypeScript-Core-ffe66d?style=flat-square&logo=typescript&logoColor=232635" />
+        <img src="https://img.shields.io/badge/CI%2FCD-Gating-c74ded?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 <a href="https://github.com/Minerky/forex-intelligence-terminal"><font color="#ffe66d">forex-intelligence-terminal</font></a></h4>
+      <p><em><font color="#00e8c6">Real-Time Financial Telemetry Terminal</font></em></p>
+      <p><font color="#94a3b8">High-signal market intelligence engine parsing multi-timeframe indicators, liquidity zones, and real-time quantitative telemetry for financial markets.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-ESNext-ffe66d?style=flat-square&logo=javascript&logoColor=232635" />
+        <img src="https://img.shields.io/badge/Analytics-Realtime-00e8c6?style=flat-square" />
+        <img src="https://img.shields.io/badge/REST-API-ee5d43?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/Minerky/forex-signal-terminal"><font color="#ee5d43">forex-signal-terminal</font></a></h4>
+      <p><em><font color="#c74ded">Algorithmic Strategy Execution Engine</font></em></p>
+      <p><font color="#94a3b8">Quantitative screener engine integrating TradingView chart telemetry, multi-timeframe trend bias, and automated risk-reward execution matrices.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Engine-ee5d43?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TradingView-CDP-00e8c6?style=flat-square&logo=tradingview&logoColor=232635" />
+        <img src="https://img.shields.io/badge/Quant-Execution-c74ded?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/Minerky/Ezky-Bookstore"><font color="#c74ded">Ezky-Bookstore</font></a></h4>
+      <p><em><font color="#00e8c6">Modular Full-Stack Web Application</font></em></p>
+      <p><font color="#94a3b8">Production-ready web application engineered with modular state flow, responsive layout components, strict schema validation, and structured SQL data models.</font></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-UI-00e8c6?style=flat-square&logo=react&logoColor=232635" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-ffe66d?style=flat-square&logo=node.js&logoColor=232635" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS-ee5d43?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-```ini
-; ── [04] TELEMETRY MATRIX & CONTRIBUTION GRID ─────────────────────────────────────────
-```
+### ✦ <font color="#00e8c6">[04]</font> <font color="#ffe66d">TELEMETRY MATRIX</font> <font color="#717cb4">& CONTRIBUTION GRID</font>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Dark" />
