@@ -36,7 +36,9 @@ LOCATION     = "Indonesia (UTC+7) [Remote Active]"
 
 <br/>
 
-### ✦ <font color="#00e8c6">[01]</font> <font color="#ffe66d">TECHNICAL ARSENAL</font> <font color="#717cb4">& RUNTIME PACKAGES</font>
+```ini
+; ── [01] TECHNICAL ARSENAL & RUNTIME PACKAGES ─────────────────────────────────────────
+```
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -71,7 +73,9 @@ devops_infrastructure:
 
 <br/>
 
-### ✦ <font color="#00e8c6">[02]</font> <font color="#ffe66d">ZERO-DEFECT</font> <font color="#ee5d43">QUALITY ASSURANCE PIPELINE</font>
+```ini
+; ── [02] ZERO-DEFECT QUALITY ASSURANCE PIPELINE ───────────────────────────────────────
+```
 
 ```diff
 + [STAGE 01: STATIC AUDIT]      + [STAGE 02: E2E ENGINE]        + [STAGE 03: CHAOS & BOUNDARY]      + [STAGE 04: RELEASE]
@@ -83,70 +87,43 @@ devops_infrastructure:
 
 <br/>
 
-### ✦ <font color="#00e8c6">[03]</font> <font color="#ffe66d">FLAGSHIP REPOSITORIES</font> <font color="#717cb4">& DEPLOYMENTS</font>
+```ini
+; ── [03] FLAGSHIP REPOSITORIES & DEPLOYMENTS ──────────────────────────────────────────
+```
 
-<table>
-  <thead>
-    <tr>
-      <th width="46%" align="left"><font color="#00e8c6"><b>SYSTEM & REPOSITORY</b></font></th>
-      <th width="54%" align="left"><font color="#ee5d43"><b>ENGINEERING HIGHLIGHTS & DOMAIN</b></font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <h4>🛡️ <a href="https://github.com/Minerky/qa-e2e-tester"><font color="#00e8c6">qa-e2e-tester</font></a></h4>
-        <sub>Autonomous QA Engine & Spec Generator</sub><br/>
-        <img src="https://img.shields.io/badge/Playwright-E2E-00e8c6?style=flat-square&logo=playwright&logoColor=232635" />
-        <img src="https://img.shields.io/badge/TypeScript-Core-ffe66d?style=flat-square&logo=typescript&logoColor=232635" />
-        <img src="https://img.shields.io/badge/CI%2FCD-Gating-c74ded?style=flat-square&logo=githubactions&logoColor=white" />
-      </td>
-      <td>
-        Autonomous QA pipeline engine engineered for exhaustive web and API validation. Features intelligent element discovery, boundary stress testing, automated schema validation, and instant test report generation.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h4>📈 <a href="https://github.com/Minerky/forex-intelligence-terminal"><font color="#ffe66d">forex-intelligence-terminal</font></a></h4>
-        <sub>Real-Time Financial Telemetry Terminal</sub><br/>
-        <img src="https://img.shields.io/badge/JavaScript-ESNext-ffe66d?style=flat-square&logo=javascript&logoColor=232635" />
-        <img src="https://img.shields.io/badge/Analytics-Realtime-00e8c6?style=flat-square" />
-        <img src="https://img.shields.io/badge/REST-API-ee5d43?style=flat-square" />
-      </td>
-      <td>
-        High-signal market intelligence engine parsing multi-timeframe indicators, liquidity zones, and real-time quantitative telemetry for financial markets.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h4>⚡ <a href="https://github.com/Minerky/forex-signal-terminal"><font color="#ee5d43">forex-signal-terminal</font></a></h4>
-        <sub>Algorithmic Strategy Execution Engine</sub><br/>
-        <img src="https://img.shields.io/badge/Python-Engine-ee5d43?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TradingView-CDP-00e8c6?style=flat-square&logo=tradingview&logoColor=232635" />
-        <img src="https://img.shields.io/badge/Quant-Execution-c74ded?style=flat-square" />
-      </td>
-      <td>
-        Quantitative screener engine integrating TradingView chart telemetry, multi-timeframe trend bias, and automated risk-reward execution matrices.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h4>📚 <a href="https://github.com/Minerky/Ezky-Bookstore"><font color="#c74ded">Ezky-Bookstore</font></a></h4>
-        <sub>Modular Full-Stack Web Application</sub><br/>
-        <img src="https://img.shields.io/badge/React-UI-00e8c6?style=flat-square&logo=react&logoColor=232635" />
-        <img src="https://img.shields.io/badge/Node.js-Backend-ffe66d?style=flat-square&logo=node.js&logoColor=232635" />
-        <img src="https://img.shields.io/badge/Tailwind-CSS-ee5d43?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </td>
-      <td>
-        Production-ready web application engineered with modular state flow, responsive layout components, strict schema validation, and structured SQL data models.
-      </td>
-    </tr>
-  </tbody>
-</table>
+```yaml
+# deployments.spec.yml — Flagship Systems Catalog
+
+SYS_01:
+  name: "qa-e2e-tester"
+  uri: "https://github.com/Minerky/qa-e2e-tester"
+  stack: ["TypeScript", "Playwright", "GitHub Actions CI/CD"]
+  highlight: "Autonomous E2E testing pipeline engine featuring intelligent element discovery, boundary stress testing, and structured report synthesis."
+
+SYS_02:
+  name: "forex-intelligence-terminal"
+  uri: "https://github.com/Minerky/forex-intelligence-terminal"
+  stack: ["JavaScript (ESNext)", "REST API", "Market Analytics"]
+  highlight: "Real-time financial telemetry dashboard engineered for multi-timeframe indicator scanning, quantitative signals, and market structure analytics."
+
+SYS_03:
+  name: "forex-signal-terminal"
+  uri: "https://github.com/Minerky/forex-signal-terminal"
+  stack: ["Python", "TradingView CDP", "Quant Execution"]
+  highlight: "Quantitative strategy engine calculating technical trend bias, liquidity boundaries, and automated risk-reward execution rules."
+
+SYS_04:
+  name: "Ezky-Bookstore"
+  uri: "https://github.com/Minerky/Ezky-Bookstore"
+  stack: ["React", "Node.js", "Tailwind CSS", "SQL Database"]
+  highlight: "Production-ready web application engineered with modular state flow, responsive layout components, strict schema validation, and SQL models."
+```
 
 <br/>
 
-### ✦ <font color="#00e8c6">[04]</font> <font color="#ffe66d">TELEMETRY MATRIX</font> <font color="#717cb4">& CONTRIBUTION GRID</font>
+```ini
+; ── [04] TELEMETRY MATRIX & CONTRIBUTION GRID ─────────────────────────────────────────
+```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Dark" />
