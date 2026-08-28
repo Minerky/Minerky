@@ -4,14 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=Minerky&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-Full-Stack Developer & Trading Systems Engineer focused on quantitative tooling, automated QA testing, and resilient web applications.
+Full-Stack Developer & QA Engineer focused on automated E2E testing, web applications, and resilient software delivery.
 
 ---
 
 ### 🚀 Highlights & Focus
-- 🔭 **Current Work:** Algorithmic & quantitative trading systems, automated test suites (E2E / QA).
-- 🛠️ **Core Expertise:** Financial terminals, market analysis automation, modern full-stack web.
-- ⚡ **Philosophy:** Clean architecture, minimal boilerplate, high-signal tooling.
+- 🔭 **Current Work:** Automated test suites (Playwright, Web & Mobile QA), robust full-stack applications.
+- 🛠️ **Core Expertise:** End-to-end testing, quality assurance automation, modern full-stack web development.
+- ⚡ **Philosophy:** Zero missed defects, clean architecture, minimal boilerplate, high reliability.
 
 ---
 
@@ -23,11 +23,11 @@ Full-Stack Developer & Trading Systems Engineer focused on quantitative tooling,
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Domains & Frameworks:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TradingView](https://img.shields.io/badge/-TradingView-131722?style=flat-square&logo=tradingview&logoColor=white)
+**QA & Frameworks:**  
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
