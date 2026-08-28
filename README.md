@@ -161,7 +161,17 @@
 
 <br/>
 
-### ✦ 04 // REAL-TIME SYSTEM TELEMETRY
+### ✦ 04 // INTERACTIVE ACTIVITY & CONTRIBUTION SNAKE
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Minerky&theme=tokyonight&hide_border=true&background=030712&ring=38BDF8&fire=38BDF8&currStreakLabel=94A3B8" width="98%" alt="Minerky Live Streak Telemetry" />
