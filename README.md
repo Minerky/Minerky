@@ -1,25 +1,22 @@
 <div align="center">
 
-<!-- ═══════════════════════════ MATRIX CINEMATIC HERO ═══════════════════════════ -->
+<!-- ═══════════════════════════ CINEMATIC HERO & AURORA ═══════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=250&section=header&text=MINERKY&fontSize=62&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=250&section=header&text=MINERKY&fontSize=62&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58" width="100%" alt="Cinematic Header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,9,24&height=260&section=header&text=MINERKY&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,9,24&height=260&section=header&text=MINERKY&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58" width="100%" alt="Minerky Cyber Hero" />
 </picture>
-
-# ⚡ MINERKY ⚡
-### `Software QA Engineer & Full-Stack Architect`
 
 <!-- Dynamic Terminal Typing Stream -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%96%B8+%5BINIT%5D+Autonomous+Playwright+E2E+Engines+%E2%80%A2+Zero-Defect+Gates;%E2%96%B8+%5BARCH%5D+High-Throughput+Web+Applications+%E2%80%A2+React+%2F+TypeScript;%E2%96%B8+%5BTELEMETRY%5D+Financial+Market+Terminals+%26+Indicator+Parsers;%E2%96%B8+%5BPHILOSOPHY%5D+Clean+Code+%E2%80%A2+High+Signal+%E2%80%A2+Minimal+Bloat" alt="Live Terminal Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=%E2%96%B8+%5BCORE%5D+Autonomous+Playwright+E2E+Engines+%E2%80%A2+Zero-Defect+Gates;%E2%96%B8+%5BARCH%5D+High-Throughput+Web+Systems+%E2%80%A2+TypeScript+%2F+React;%E2%96%B8+%5BTELEMETRY%5D+Financial+Market+Terminals+%26+Algorithmic+Parsers;%E2%96%B8+%5BSTANDARD%5D+Deterministic+Quality+%E2%80%A2+Maximal+Craft+%E2%80%A2+Zero+Slop" alt="Live System Typing" />
 </p>
 
-<!-- Interactive Live Status Matrix -->
+<!-- Live Telemetry Status Bar -->
 <p align="center">
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/RUNNING-ONLINE-059669?style=for-the-badge&logo=statuspage&logoColor=white" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/RUNTIME-ACTIVE_%E2%97%8F-059669?style=for-the-badge&logo=statuspage&logoColor=white" height="26" /></a>
   <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/PLAYWRIGHT-AUTOMATION-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="26" /></a>
   <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/TYPESCRIPT-STRICT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="26" /></a>
-  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=HITS&color=0f172a&style=for-the-badge" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=TELEMETRY_VIEWS&color=0f172a&style=for-the-badge" height="26" /></a>
 </p>
 
 </div>
@@ -29,62 +26,64 @@
 <!-- ═════════════════════════ WORKSTATION OPERATING CONSOLE ═════════════════════════ -->
 
 ```
-┌── [MINERKY :: ROOT CONSOLE ENVIRONMENT] ──────────────────────────────────────────────┐
-│                                                                                       │
-│  OPERATOR     :: Minerky (Rezky)                                                      │
-│  DOMAIN       :: Automated Quality Assurance · Full-Stack Web Architecture            │
-│  SPECIALTY    :: E2E Automation Suites · Schema Verification · Financial Terminals    │
-│  STANDARDS    :: Zero-Defect Gating · Atomic State Models · Rigorous CI/CD Pipelines  │
-│  CORE STACK   :: TypeScript · Playwright · React · Node.js · Python · GitHub Actions  │
-│                                                                                       │
-└───────────────────────────────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ MINERKY // ROOT RUNTIME & ENGINEERING SPECIFICATION MATRIX                                    ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                ║
+║  OPERATOR      ::  Minerky (Rezky)                                                             ║
+║  DISCIPLINE    ::  Software Quality Engineering · Full-Stack Systems · Telemetry Scanners     ║
+║  METHODOLOGY   ::  "Zero defects shipped. Test-first architecture. Uncompromising craft."      ║
+║  CORE RUNTIME  ::  TypeScript · Playwright · React · Node.js · Python · GitHub Actions CI/CD   ║
+║  ENV / ACCESS  ::  Production-Grade Web & Automated Test Gating Networks                       ║
+║                                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-### ✦ 01 // INTERACTIVE TECH ARSENAL
+### ✦ 01 // INTERACTIVE TECHNICAL ARSENAL
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Technical Stack Icons" />
   </a>
 </div>
 
 <br/>
 
 <table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🛡️ QA Automation & Gating</h4>
-      <p>
-        • <code>Playwright</code> Autonomous Suites<br/>
-        • <code>Jest / Vitest</code> Unit & Contract<br/>
-        • <code>Postman</code> Automated API Probes<br/>
-        • <code>Chaos & Stress</code> Boundary Audits<br/>
-        • Zero Missed Defects Standard
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💻 Full-Stack Web Core</h4>
-      <p>
-        • <code>TypeScript</code> Strict Architecture<br/>
-        • <code>React / Next.js</code> Atomic Components<br/>
-        • <code>Node.js</code> High-Performance Services<br/>
-        • <code>Tailwind CSS</code> Precision Design<br/>
-        • <code>PostgreSQL / SQL</code> Schema Engines
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚡ Delivery & Cloud Infra</h4>
-      <p>
-        • <code>GitHub Actions</code> Test Pipelines<br/>
-        • <code>Docker</code> Isolated Test Containers<br/>
-        • <code>Linux / Bash</code> Telemetry Shell<br/>
-        • <code>Git Ops</code> Continuous Verification<br/>
-        • <code>TradingView CDP</code> Live Parsers
-      </p>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="33%" align="left"><b>🛡️ QA AUTOMATION & GATING</b></th>
+      <th width="33%" align="left"><b>💻 FULL-STACK ARCHITECTURE</b></th>
+      <th width="33%" align="left"><b>⚡ CI/CD & TELEMETRY OPS</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        • <b>Playwright:</b> Autonomous E2E suites<br/>
+        • <b>API Testing:</b> Contract & schema validation<br/>
+        • <b>Chaos Probes:</b> Boundary & stress audits<br/>
+        • <b>Reporting:</b> Instant defect synthesizers<br/>
+        • <b>Quality Gate:</b> Zero missed defect bar
+      </td>
+      <td valign="top">
+        • <b>TypeScript:</b> Strict typed foundations<br/>
+        • <b>React / Next.js:</b> Modular UI systems<br/>
+        • <b>Node.js:</b> High-throughput REST services<br/>
+        • <b>Tailwind CSS:</b> Precision dark-mode design<br/>
+        • <b>PostgreSQL / SQL:</b> Schema data engines
+      </td>
+      <td valign="top">
+        • <b>GitHub Actions:</b> Automated test runners<br/>
+        • <b>Docker:</b> Sandboxed execution containers<br/>
+        • <b>Linux / Bash:</b> High-speed terminal tools<br/>
+        • <b>Git Ops:</b> Disciplined commit lifecycles<br/>
+        • <b>TradingView CDP:</b> Real-time chart telemetry
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
@@ -107,8 +106,8 @@
 <table>
   <thead>
     <tr>
-      <th width="48%" align="left"><b>PROJECT / REPOSITORY</b></th>
-      <th width="52%" align="left"><b>DOMAIN & ARCHITECTURAL HIGHLIGHTS</b></th>
+      <th width="46%" align="left"><b>SYSTEM & REPOSITORY</b></th>
+      <th width="54%" align="left"><b>ARCHITECTURAL SCOPE & DOMAIN</b></th>
     </tr>
   </thead>
   <tbody>
@@ -121,7 +120,7 @@
         <img src="https://img.shields.io/badge/CI%2FCD-Gating-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       </td>
       <td>
-        Autonomous QA pipeline engine featuring intelligent element discovery, boundary stress testing, automated schema validation, and instant test report generation.
+        Autonomous QA pipeline engine engineered for exhaustive web and API validation. Features intelligent element discovery, boundary stress testing, automated schema validation, and instant test report generation.
       </td>
     </tr>
     <tr>
@@ -133,7 +132,7 @@
         <img src="https://img.shields.io/badge/REST-Engine-339933?style=flat-square" />
       </td>
       <td>
-        High-signal market intelligence engine parsing multi-timeframe indicators, liquidity zones, and real-time quantitative telemetry.
+        High-signal market intelligence engine parsing multi-timeframe indicators, liquidity zones, and real-time quantitative telemetry for financial markets.
       </td>
     </tr>
     <tr>
@@ -144,7 +143,7 @@
         <img src="https://img.shields.io/badge/TradingView-CDP-131722?style=flat-square&logo=tradingview&logoColor=white" />
       </td>
       <td>
-        Quantitative screener engine integrating TradingView chart telemetry, multi-timeframe trend bias, and automated risk-reward execution rules.
+        Quantitative screener engine integrating TradingView chart telemetry, multi-timeframe trend bias, and automated risk-reward execution matrices.
       </td>
     </tr>
     <tr>
@@ -164,7 +163,7 @@
 
 <br/>
 
-### ✦ 04 // INTERACTIVE CONTRIBUTION ACTIVITY
+### ✦ 04 // INTERACTIVE CONTRIBUTION ACTIVITY & TELEMETRY
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Dark" />
@@ -200,6 +199,6 @@
 </p>
 
 <!-- Animated Dynamic Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=120&section=footer" width="100%" alt="Footer Animated Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,9,24&height=120&section=footer" width="100%" alt="Footer Animated Wave" />
 
 </div>
