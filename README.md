@@ -1,43 +1,74 @@
-# Hi, I'm Rezky (Minerky) 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Minerky&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
+# Rezky
+### Full-Stack Developer & Quality Assurance Engineer
 
-Full-Stack Developer & QA Engineer focused on automated E2E testing, web applications, and resilient software delivery.
-
----
-
-### 🚀 Highlights & Focus
-- 🔭 **Current Work:** Automated test suites (Playwright, Web & Mobile QA), robust full-stack applications.
-- 🛠️ **Core Expertise:** End-to-end testing, quality assurance automation, modern full-stack web development.
-- ⚡ **Philosophy:** Zero missed defects, clean architecture, minimal boilerplate, high reliability.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Runtime:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**QA & Frameworks:**  
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minerky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minerky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<p>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/Location-Indonesia-0a0a0a?style=flat&labelColor=171717&color=262626" alt="Location" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20QA%20Automation-0a0a0a?style=flat&labelColor=171717&color=262626" alt="Focus" /></a>
+  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=Views&color=262626&style=flat" alt="Profile Views" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minerky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  Building reliable web architectures and rigorous automated test pipelines.<br/>
+  Specialized in end-to-end testing, zero-defect shipping, and modern TypeScript environments.
 </p>
+
+</div>
+
+---
+
+### ⚙️ Stack & Disciplines
+
+```text
+Core Languages      TypeScript · JavaScript · Python · SQL · HTML / CSS
+Frontend & UI       React · Next.js · Tailwind CSS · Component Systems
+QA & Automation     Playwright · E2E Test Suites · API Testing · CI/CD (GitHub Actions)
+Runtime & Tools     Node.js · Git · Postman · Linux / Bash
+```
+
+---
+
+### 🎯 Primary Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Quality Assurance & Reliability</h4>
+      <ul>
+        <li>Automated E2E test suites with Playwright</li>
+        <li>Defect discovery, boundary & stress verification</li>
+        <li>API integration and response schema testing</li>
+        <li>Continuous validation in CI/CD pipelines</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Full-Stack Web Development</h4>
+      <ul>
+        <li>Modern, accessible UI with clean state flow</li>
+        <li>Backend REST APIs & structured data models</li>
+        <li>Minimal-dependency, maintainable codebase design</li>
+        <li>Performance, security, and responsive layouts</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minerky&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minerky&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af" width="48%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minerky&theme=transparent&hide_border=true&stroke=374151&background=00000000&ring=e5e7eb&fire=e5e7eb&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280" width="96%" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered with precision · Focused on quality and craftsmanship</sub>
+</div>
