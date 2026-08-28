@@ -101,13 +101,13 @@
 
 <br/>
 
-### ✦ 03 // CYBER CITY MISSION LOGS & FLAGSHIPS
+### ✦ 03 // FEATURED ENGINEERING SYSTEMS & FLAGSHIPS
 
 <table>
   <thead>
     <tr>
-      <th width="46%" align="left"><font color="#00f0ff"><b>MAINFRAME REPOSITORY</b></font></th>
-      <th width="54%" align="left"><font color="#f43f5e"><b>ARCHITECTURAL HIGHLIGHTS & SCOPE</b></font></th>
+      <th width="46%" align="left"><font color="#00f0ff"><b>CORE ARCHITECTURE & REPOSITORY</b></font></th>
+      <th width="54%" align="left"><font color="#f43f5e"><b>ENGINEERING HIGHLIGHTS & DOMAIN</b></font></th>
     </tr>
   </thead>
   <tbody>
