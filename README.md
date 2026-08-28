@@ -21,7 +21,7 @@
 ```
 ┌── [minerky@mainframe ~]$ neofetch ────────────────────────────────────────────────────────┐
 │                                                                                           │
-│   HOST         :: Minerky Development Terminal (WS2500)                                   │
+│   HOST         :: Minerky Development Terminal                                            │
 │   ROLE         :: Software QA Engineer & Full-Stack Systems Architect                     │
 │   SHELL        :: /bin/zsh (strict-mode, zero-fluff)                                      │
 │   PHILOSOPHY   :: "Deterministic quality through exhaustive testing & clean architecture."│
