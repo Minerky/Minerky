@@ -1,51 +1,51 @@
 <div align="center">
 
-<!-- ═══════════════════════════ CINEMATIC HERO & AURORA ═══════════════════════════ -->
+<!-- ═══════════════════════════ CYBER CITY MAINFRAME HEADER ═══════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,9,24&height=260&section=header&text=MINERKY&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,9,24&height=260&section=header&text=MINERKY&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58" width="100%" alt="Minerky Cyber Hero" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=270&section=header&text=MINERKY%20//%20NC-2077&fontSize=56&fontColor=00f0ff&animation=twinkle&fontAlignY=34&desc=%E2%8F%9F%20CYBER%20CITY%20QA%20AUTOMATION%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20SYSTEMS%20%E2%8F%9F&descFontSize=14&descColor=f43f5e&descAlignY=58">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=270&section=header&text=MINERKY%20//%20NC-2077&fontSize=56&fontColor=00f0ff&animation=twinkle&fontAlignY=34&desc=%E2%8F%9F%20CYBER%20CITY%20QA%20AUTOMATION%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20SYSTEMS%20%E2%80%A2%20NC-2077%20%E2%8F%9F&descFontSize=14&descColor=f43f5e&descAlignY=58" width="100%" alt="Cyber City Header" />
 </picture>
 
-<!-- Dynamic Terminal Typing Stream -->
+<!-- Neon Dynamic Typing Stream -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=%E2%96%B8+%5BCORE%5D+Autonomous+Playwright+E2E+Engines+%E2%80%A2+Zero-Defect+Gates;%E2%96%B8+%5BARCH%5D+High-Throughput+Web+Systems+%E2%80%A2+TypeScript+%2F+React;%E2%96%B8+%5BTELEMETRY%5D+Financial+Market+Terminals+%26+Algorithmic+Parsers;%E2%96%B8+%5BSTANDARD%5D+Deterministic+Quality+%E2%80%A2+Maximal+Craft+%E2%80%A2+Zero+Slop" alt="Live System Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B8+%5BCORE_GRID%5D+Autonomous+Playwright+E2E+Engines+%E2%80%A2+Zero-Defect+Gates;%E2%96%B8+%5BNEURAL_NET%5D+High-Throughput+TypeScript+%2F+React+Web+Architectures;%E2%96%B8+%5BTELEMETRY%5D+Financial+Market+Terminals+%26+Algorithmic+Parsers;%E2%96%B8+%5BPROTOCOL%5D+Deterministic+Quality+%E2%80%A2+Cyberpunk+Engineering+Craft" alt="Cyber Stream" />
 </p>
 
-<!-- Live Telemetry Status Bar -->
+<!-- Cyber City HUD Status Pill Grid -->
 <p align="center">
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/RUNTIME-ACTIVE_%E2%97%8F-059669?style=for-the-badge&logo=statuspage&logoColor=white" height="26" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/PLAYWRIGHT-AUTOMATION-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="26" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/TYPESCRIPT-STRICT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="26" /></a>
-  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=TELEMETRY_VIEWS&color=0f172a&style=for-the-badge" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/CYBER_GRID-ONLINE_%E2%97%8F-059669?style=for-the-badge&logo=statuspage&logoColor=00f0ff" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/PLAYWRIGHT-TEST_DEFENSE-00f0ff?style=for-the-badge&logo=playwright&logoColor=050811&labelColor=050811" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/SECURITY-ZERO_DEFECTS-f43f5e?style=for-the-badge&logo=target&logoColor=white&labelColor=050811" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=NET_HITS&color=7928ca&style=for-the-badge" height="26" /></a>
 </p>
 
 </div>
 
 <br/>
 
-<!-- ═════════════════════════ WORKSTATION OPERATING CONSOLE ═════════════════════════ -->
+<!-- ═════════════════════════ CYBER CITY ROOT CONSOLE ═════════════════════════ -->
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════════════╗
-║ MINERKY // ROOT RUNTIME & ENGINEERING SPECIFICATION MATRIX                                    ║
+║ [//] MINERKY_OS :: CYBER CITY CENTRAL MAINFRAME // SEC_LEVEL: 0xROOT                          ║
 ╠════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                ║
-║  OPERATOR      ::  Minerky                                                                     ║
-║  DISCIPLINE    ::  Software Quality Engineering · Full-Stack Systems · Telemetry Scanners     ║
-║  METHODOLOGY   ::  "Zero defects shipped. Test-first architecture. Uncompromising craft."      ║
-║  CORE RUNTIME  ::  TypeScript · Playwright · React · Node.js · Python · GitHub Actions CI/CD   ║
-║  ENV / ACCESS  ::  Production-Grade Web & Automated Test Gating Networks                       ║
+║  OPERATOR_ID  ::  MINERKY                                                                      ║
+║  CLASS_TYPE   ::  QA Automation Architect · Full-Stack Systems Engineer · Telemetry Scanners   ║
+║  DIRECTIVE    ::  "Deploy unbreakable architectures. Terminate software defects at the gate." ║
+║  TECH_GRID    ::  TypeScript · Playwright · React · Node.js · Python · GitHub Actions CI/CD    ║
+║  MAINFRAME    ::  Real-Time E2E Test Pipelines · Financial Data Feeds · Cloud Containers       ║
 ║                                                                                                ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-### ✦ 01 // INTERACTIVE TECHNICAL ARSENAL
+### ✦ 01 // NEURAL TECH MATRIX
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Technical Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Cyber Tech Matrix" />
   </a>
 </div>
 
@@ -54,25 +54,25 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%" align="left"><b>🛡️ QA AUTOMATION & GATING</b></th>
-      <th width="33%" align="left"><b>💻 FULL-STACK ARCHITECTURE</b></th>
-      <th width="33%" align="left"><b>⚡ CI/CD & TELEMETRY OPS</b></th>
+      <th width="33%" align="left"><font color="#00f0ff">🛡️ QA AUTOMATION DEFENSE GRID</font></th>
+      <th width="33%" align="left"><font color="#f43f5e">💻 FULL-STACK CORE MATRIX</font></th>
+      <th width="33%" align="left"><font color="#a855f7">⚡ CI/CD & TELEMETRY NETWORK</font></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
         • <b>Playwright:</b> Autonomous E2E suites<br/>
-        • <b>API Testing:</b> Contract & schema validation<br/>
+        • <b>API Defense:</b> Schema & contract validation<br/>
         • <b>Chaos Probes:</b> Boundary & stress audits<br/>
-        • <b>Reporting:</b> Instant defect synthesizers<br/>
-        • <b>Quality Gate:</b> Zero missed defect bar
+        • <b>Telemetry:</b> Automated defect synthesizers<br/>
+        • <b>Security Standard:</b> Zero missed defect bar
       </td>
       <td valign="top">
         • <b>TypeScript:</b> Strict typed foundations<br/>
         • <b>React / Next.js:</b> Modular UI systems<br/>
         • <b>Node.js:</b> High-throughput REST services<br/>
-        • <b>Tailwind CSS:</b> Precision dark-mode design<br/>
+        • <b>Tailwind CSS:</b> Cyberpunk dark-mode styling<br/>
         • <b>PostgreSQL / SQL:</b> Schema data engines
       </td>
       <td valign="top">
@@ -88,26 +88,26 @@
 
 <br/>
 
-<!-- ════════════════════════ TEST GATING PIPELINE ════════════════════════ -->
+<!-- ════════════════════════ ZERO-DEFECT QUALITY PIPELINE ════════════════════════ -->
 
-### ✦ 02 // ZERO-DEFECT QUALITY GATING PIPELINE
+### ✦ 02 // ZERO-DEFECT TEST DEFENSE PROTOCOL
 
 ```
- ┌──────────────────────┐      ┌──────────────────────┐      ┌──────────────────────┐      ┌──────────────────────┐
- │  01. STATIC AUDIT    │ ───> │  02. E2E PLAYWRIGHT  │ ───> │  03. CHAOS & BOUNDARY│ ───> │  04. ZERO DEFECT     │
- │  Typecheck & Lint    │      │  Multi-Browser Web   │      │  API Schema & Stress │      │  Production Shipped  │
- └──────────────────────┘      └──────────────────────┘      └──────────────────────┘      └──────────────────────┘
+  ┌───────────────────────┐       ┌───────────────────────┐       ┌───────────────────────┐       ┌───────────────────────┐
+  │  [01] STATIC PROBE    │ ────> │  [02] E2E PLAYWRIGHT  │ ────> │  [03] CHAOS INJECTION │ ────> │  [04] PRODUCTION NET  │
+  │  Typecheck · ESLint   │       │  Multi-Browser Web    │       │  API Boundary Gating  │       │  Zero-Defect Release  │
+  └───────────────────────┘       └───────────────────────┘       └───────────────────────┘       └───────────────────────┘
 ```
 
 <br/>
 
-### ✦ 03 // FLAGSHIP REPOSITORIES & SYSTEMS
+### ✦ 03 // CYBER CITY MISSION LOGS & FLAGSHIPS
 
 <table>
   <thead>
     <tr>
-      <th width="46%" align="left"><b>SYSTEM & REPOSITORY</b></th>
-      <th width="54%" align="left"><b>ARCHITECTURAL SCOPE & DOMAIN</b></th>
+      <th width="46%" align="left"><font color="#00f0ff"><b>MAINFRAME REPOSITORY</b></font></th>
+      <th width="54%" align="left"><font color="#f43f5e"><b>ARCHITECTURAL HIGHLIGHTS & SCOPE</b></font></th>
     </tr>
   </thead>
   <tbody>
@@ -163,7 +163,7 @@
 
 <br/>
 
-### ✦ 04 // INTERACTIVE CONTRIBUTION ACTIVITY & TELEMETRY
+### ✦ 04 // MAINFRAME ACTIVITY & LIVE GRID SNAKE
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Dark" />
@@ -172,7 +172,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Minerky&theme=tokyonight&hide_border=true&background=030712&ring=38BDF8&fire=38BDF8&currStreakLabel=94A3B8" width="98%" alt="Minerky Live Streak Telemetry" />
+  <img src="https://streak-stats.demolab.com?user=Minerky&theme=tokyonight&hide_border=true&background=050811&border=00F0FF&stroke=00F0FF&ring=FF0055&fire=FF0055&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=94A3B8" width="98%" alt="Cyberpunk Live Streak Telemetry" />
 </div>
 
 <br/>
@@ -195,10 +195,10 @@
 <div align="center">
 
 <p align="center">
-  <sub><code>0xMINERKY</code> // CRAFTED WITH ARCHITECTURAL RIGOR • ZERO-DEFECT QUALITY ENGINEERING</sub>
+  <sub><code>0xMINERKY // NC-2077</code> • ENGINEERED IN CYBER CITY • ZERO-DEFECT QUALITY ARCHITECTURE</sub>
 </p>
 
-<!-- Animated Dynamic Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,9,24&height=120&section=footer" width="100%" alt="Footer Animated Wave" />
+<!-- Cyberpunk Waving Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=130&section=footer" width="100%" alt="Cyberpunk Footer Wave" />
 
 </div>
