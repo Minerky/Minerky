@@ -6,6 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=250&section=header&text=MINERKY&fontSize=62&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58" width="100%" alt="Cinematic Header" />
 </picture>
 
+# ⚡ MINERKY ⚡
+### `Software QA Engineer & Full-Stack Architect`
+
 <!-- Dynamic Terminal Typing Stream -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%96%B8+%5BINIT%5D+Autonomous+Playwright+E2E+Engines+%E2%80%A2+Zero-Defect+Gates;%E2%96%B8+%5BARCH%5D+High-Throughput+Web+Applications+%E2%80%A2+React+%2F+TypeScript;%E2%96%B8+%5BTELEMETRY%5D+Financial+Market+Terminals+%26+Indicator+Parsers;%E2%96%B8+%5BPHILOSOPHY%5D+Clean+Code+%E2%80%A2+High+Signal+%E2%80%A2+Minimal+Bloat" alt="Live Terminal Stream" />
