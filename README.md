@@ -179,14 +179,14 @@ DEVOPS_AND_INFRASTRUCTURE:
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Telemetry Profile" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=2077" width="98%" alt="Telemetry Profile" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minerky&theme=nord_dark" width="49%" alt="Language Breakdown" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minerky&theme=nord_dark" width="49%" alt="Commit Volume" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minerky&theme=2077" width="49%" alt="Language Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minerky&theme=2077" width="49%" alt="Commit Volume" />
 </div>
 
 <br/>
