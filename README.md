@@ -97,72 +97,35 @@ DEVOPS_AND_INFRASTRUCTURE:
   <img src="https://img.shields.io/badge/03-FLAGSHIP_SYSTEMS_%26_DEPLOYMENTS-ee5d43?style=for-the-badge&labelColor=232635&color=ee5d43" height="28" />
 </p>
 
-<table>
-  <thead>
-    <tr>
-      <th width="48%" align="left"><img src="https://img.shields.io/badge/SYSTEM-REPOSITORY-00e8c6?style=flat-square&labelColor=232635" /></th>
-      <th width="52%" align="left"><img src="https://img.shields.io/badge/DOMAIN-HIGHLIGHTS-ee5d43?style=flat-square&labelColor=232635" /></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <h3>🛡️ <a href="https://github.com/Minerky/qa-e2e-tester">qa-e2e-tester</a></h3>
-        <p><b>Autonomous QA Engine & Spec Generator</b></p>
-        <p>
-          <img src="https://img.shields.io/badge/Playwright-E2E-00e8c6?style=flat-square&labelColor=232635&color=00e8c6" />
-          <img src="https://img.shields.io/badge/TypeScript-Core-ffe66d?style=flat-square&labelColor=232635&color=ffe66d" />
-          <img src="https://img.shields.io/badge/CI%2FCD-Gating-c74ded?style=flat-square&labelColor=232635&color=c74ded" />
-        </p>
-      </td>
-      <td valign="top">
-        Autonomous QA pipeline engine engineered for exhaustive web and API validation. Features intelligent element discovery, boundary stress testing, automated schema validation, and instant test report generation.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <h3>📈 <a href="https://github.com/Minerky/forex-intelligence-terminal">forex-intelligence-terminal</a></h3>
-        <p><b>Real-Time Financial Telemetry Terminal</b></p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-ESNext-ffe66d?style=flat-square&labelColor=232635&color=ffe66d" />
-          <img src="https://img.shields.io/badge/Analytics-Realtime-00e8c6?style=flat-square&labelColor=232635&color=00e8c6" />
-          <img src="https://img.shields.io/badge/REST-API-ee5d43?style=flat-square&labelColor=232635&color=ee5d43" />
-        </p>
-      </td>
-      <td valign="top">
-        High-signal market intelligence engine parsing multi-timeframe indicators, liquidity zones, and real-time quantitative telemetry for financial markets.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <h3>⚡ <a href="https://github.com/Minerky/forex-signal-terminal">forex-signal-terminal</a></h3>
-        <p><b>Algorithmic Strategy Execution Engine</b></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-Engine-ee5d43?style=flat-square&labelColor=232635&color=ee5d43" />
-          <img src="https://img.shields.io/badge/TradingView-CDP-00e8c6?style=flat-square&labelColor=232635&color=00e8c6" />
-          <img src="https://img.shields.io/badge/Quant-Execution-c74ded?style=flat-square&labelColor=232635&color=c74ded" />
-        </p>
-      </td>
-      <td valign="top">
-        Quantitative screener engine integrating TradingView chart telemetry, multi-timeframe trend bias, and automated risk-reward execution matrices.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <h3>📚 <a href="https://github.com/Minerky/Ezky-Bookstore">Ezky-Bookstore</a></h3>
-        <p><b>Modular Full-Stack Web Application</b></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-UI-00e8c6?style=flat-square&labelColor=232635&color=00e8c6" />
-          <img src="https://img.shields.io/badge/Node.js-Backend-ffe66d?style=flat-square&labelColor=232635&color=ffe66d" />
-          <img src="https://img.shields.io/badge/Tailwind-CSS-ee5d43?style=flat-square&labelColor=232635&color=ee5d43" />
-        </p>
-      </td>
-      <td valign="top">
-        Production-ready web application engineered with modular state flow, responsive layout components, strict schema validation, and structured SQL data models.
-      </td>
-    </tr>
-  </tbody>
-</table>
+```yaml
+# ─── SYS_01: qa-e2e-tester ─────────────────────────────────────────────────────────────
+REPOSITORY  : "https://github.com/Minerky/qa-e2e-tester"
+TITLE       : "Autonomous QA Engine & Spec Generator"
+STACK       : [Playwright, TypeScript, GitHub-Actions-CI/CD]
+HIGHLIGHT   : "Engineered for exhaustive web and API validation with automated element discovery,
+               boundary stress testing, and structured report synthesis."
+
+# ─── SYS_02: forex-intelligence-terminal ──────────────────────────────────────────────
+REPOSITORY  : "https://github.com/Minerky/forex-intelligence-terminal"
+TITLE       : "Real-Time Financial Telemetry Terminal"
+STACK       : [JavaScript-ESNext, REST-API, Market-Analytics]
+HIGHLIGHT   : "High-signal market intelligence engine parsing multi-timeframe indicators,
+               liquidity zones, and quantitative telemetry."
+
+# ─── SYS_03: forex-signal-terminal ────────────────────────────────────────────────────
+REPOSITORY  : "https://github.com/Minerky/forex-signal-terminal"
+TITLE       : "Algorithmic Strategy Execution Engine"
+STACK       : [Python, TradingView-CDP, Quant-Execution]
+HIGHLIGHT   : "Quantitative screener engine integrating TradingView chart telemetry,
+               trend bias calculation, and automated execution matrices."
+
+# ─── SYS_04: Ezky-Bookstore ───────────────────────────────────────────────────────────
+REPOSITORY  : "https://github.com/Minerky/Ezky-Bookstore"
+TITLE       : "Modular Full-Stack Web Application"
+STACK       : [React, Node.js, Tailwind-CSS, SQL-Database]
+HIGHLIGHT   : "Production-ready web application engineered with modular state flow,
+               responsive components, and strict schema validation."
+```
 
 <br/>
 
