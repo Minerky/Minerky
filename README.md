@@ -1,21 +1,73 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=MINERKY&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Full--Stack%20Developer%20%7C%20QA%20Automation%20Engineer&descFontSize=16&descColor=8b949e&descAlignY=64&stroke=30363d&strokeWidth=1" width="100%" alt="Header" />
+<!-- Hero Banner Dynamic -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=220&section=header&text=MINERKY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full--Stack%20Developer%20%E2%80%A2%20QA%20Automation%20Architect&descFontSize=18&descColor=a5b4fc&descAlignY=58" width="100%" alt="Minerky Banner" />
 
 <p align="center">
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/System-Operational-2ea043?style=flat-square&logo=githubactions&logoColor=white" alt="Status" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/Focus-Zero--Defect%20Delivery-1f6feb?style=flat-square&logo=target&logoColor=white" alt="Focus" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20Playwright%20%7C%20React-161b22?style=flat-square&logo=codefactor&logoColor=white" alt="Stack" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+Resilient+Web+Architectures;Zero-Defect+Automated+Testing+Pipelines;Crafting+High-Performance+Software" alt="Typing Subtitle" />
 </p>
 
 <p align="center">
-  <em>Specialized in building mission-critical web applications, high-performance financial terminals, and automated E2E testing systems.</em>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Status" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/EXPERTISE-QA_%7C_FULLSTACK-6366f1?style=for-the-badge&logo=codefactor&logoColor=white" alt="Expertise" /></a>
+  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=VISITORS&color=3b82f6&style=for-the-badge" alt="Visitors" /></a>
 </p>
 
 </div>
 
----
+<br/>
+
+### ✦ Ecosystem & Technologies
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br/>
+
+### ✦ Core Architectural Pillars
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" height="45" alt="Core" /><br/>
+      <h4><b>Full-Stack Engineering</b></h4>
+      <p align="left">
+        • React & Next.js Ecosystem<br/>
+        • Scalable Node.js API Services<br/>
+        • Clean Module Architecture<br/>
+        • High-Performance Data Modeling
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="45" height="45" alt="QA" /><br/>
+      <h4><b>QA Automation & Testing</b></h4>
+      <p align="left">
+        • Playwright Autonomous Suites<br/>
+        • Strict Schema & Contract Testing<br/>
+        • Boundary & Chaos Probe Testing<br/>
+        • Zero Missed Defects Standard
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" width="45" height="45" alt="DevOps" /><br/>
+      <h4><b>CI/CD & DevOps Delivery</b></h4>
+      <p align="left">
+        • GitHub Actions Orchestration<br/>
+        • Automated Test Gating<br/>
+        • Headless Browser Testing<br/>
+        • Resilient Release Lifecycles
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### ✦ Featured Engineering Projects
 
@@ -46,48 +98,35 @@
   </tr>
 </table>
 
----
+<br/>
 
-### ✦ Technical Arsenal
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages & Core** | `TypeScript` `JavaScript` `Python` `SQL` `HTML5/CSS3` `Bash` |
-| **Quality & Automation** | `Playwright` `Jest` `Vitest` `Postman` `E2E Testing` `Chaos/Stress Testing` |
-| **Frontend Architecture** | `React` `Next.js` `Tailwind CSS` `Component Systems` `State Machines` |
-| **Backend & Infra** | `Node.js` `REST APIs` `PostgreSQL` `Git` `GitHub Actions` `Linux` |
-
-</div>
-
----
-
-### ✦ GitHub Analytics & Profile Index
+### ✦ Live GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Minerky Profile Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minerky&theme=nord_dark" width="49%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minerky&theme=nord_dark" width="49%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minerky&theme=nord_dark" width="49%" alt="Language Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minerky&theme=nord_dark" width="49%" alt="Commit Volume" />
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
 ```text
-✦ MINERKY — ENGINEERED FOR RELIABILITY & PRECISION ✦
+✦ PRECISION IN ARCHITECTURE • EXHAUSTIVE IN TESTING • UNCOMPROMISING IN QUALITY ✦
 ```
 
-<a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:contact@minerky.dev"><img src="https://img.shields.io/badge/Email-Get_in_touch-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
