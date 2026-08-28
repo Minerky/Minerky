@@ -24,7 +24,7 @@
 ```
 ┌── [MINERKY :: WORKSTATION ENVIRONMENT] ──────────────────────────────────────────────┐
 │                                                                                      │
-│  USER         :: Minerky (Rezky)                                                    │
+│  USER         :: Minerky                                                    │
 │  SPECIALTY    :: End-to-End QA Engineering · Full-Stack Systems · Telemetry Scanners│
 │  PHILOSOPHY   :: "Zero defects shipped. High-signal architectures over boilerplate." │
 │  PIPELINE     :: Playwright · GitHub Actions CI/CD · Node.js · Python Engine         │
