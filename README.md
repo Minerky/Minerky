@@ -25,15 +25,14 @@
 
 <br/>
 
-```ini
-; ═══════════════════════════ [ANDROMEDA SYSTEM CONFIGURATION] ═══════════════════════════
-[HOST_CONFIG]
-OPERATOR     = "Minerky"
-ROLE         = "Software QA Engineer & Full-Stack Systems Architect"
-PHILOSOPHY   = "Deterministic quality through exhaustive testing & clean architecture."
-PIPELINE     = "Playwright E2E · GitHub Actions · TypeScript · Node.js · Python Engine"
-ENVIRONMENT  = "Production Terminal / Zero-Defect Gating Mode"
-LOCATION     = "Indonesia (UTC+7) [Remote Active]"
+```diff
++ [HOST_SYSTEM_CONFIG] ────────────────────────────────────────────────────────────────────────
++ OPERATOR     :: Minerky
++ ROLE         :: Software QA Engineer & Full-Stack Systems Architect
+! PHILOSOPHY   :: "Deterministic quality through exhaustive testing & clean architecture."
++ PIPELINE     :: Playwright E2E · GitHub Actions · TypeScript · Node.js · Python Engine
+- ENVIRONMENT  :: Production Terminal / Zero-Defect Gating Mode
++ LOCATION     :: Indonesia (UTC+7) [Remote Active]
 ```
 
 <br/>
@@ -52,25 +51,24 @@ LOCATION     = "Indonesia (UTC+7) [Remote Active]"
 
 <br/>
 
-```yaml
-# andromeda_stack.yml — System Layer Specifications
+```diff
++ [QA_AUTOMATION_GRID] ────────────────────────────────────────────────────────────────────────
++ ENGINE       :: Playwright Autonomous Test Engine
++ TOOLING      :: Playwright · Jest · Vitest · Postman · API Schema Validators
+! DISCIPLINES  :: E2E Automation · Boundary Stress Probes · Chaos Testing · Contract Gating
+- BENCHMARK    :: ZERO MISSED DEFECTS AT PRODUCTION RELEASE
 
-QA_AUTOMATION_GRID:
-  engine: "Playwright Autonomous Test Engine"
-  tooling: ["Playwright", "Jest", "Vitest", "Postman", "API Schema Validators"]
-  disciplines: ["E2E Automation", "Boundary & Stress Probes", "Chaos Testing", "Contract Gating"]
-  benchmark: "Zero Missed Defects at Production Release"
++ [FULLSTACK_ARCHITECTURE] ───────────────────────────────────────────────────────────────────
++ LANGUAGES    :: TypeScript (Strict) · JavaScript (ESNext) · Python · SQL
++ FRONTEND     :: React.js · Next.js · Tailwind CSS · Modular Atomic Components
++ BACKEND      :: Node.js Services · RESTful APIs · PostgreSQL Storage Models
+! PATTERNS     :: Deep Modules · State Telemetry · Minimal Bloat Pattern
 
-FULLSTACK_ARCHITECTURE:
-  languages: ["TypeScript (Strict)", "JavaScript (ESNext)", "Python", "SQL"]
-  frontend: ["React.js", "Next.js", "Tailwind CSS", "Modular Atomic Components"]
-  backend: ["Node.js Services", "RESTful APIs", "PostgreSQL Storage Models"]
-  architecture: ["Deep Modules", "State Telemetry", "Minimal Bloat Pattern"]
-
-DEVOPS_AND_INFRASTRUCTURE:
-  automation: "GitHub Actions Continuous Integration & Automated Gating"
-  environment: ["Docker Containers", "Linux CLI", "Zsh / Bash Shell", "Git Ops"]
-  telemetry: "TradingView CDP Telemetry & Quantitative Indicator Parsers"
++ [DEVOPS_AND_INFRASTRUCTURE] ────────────────────────────────────────────────────────────────
++ PIPELINE     :: GitHub Actions Continuous Integration & Automated Gating
++ CONTAINERS   :: Docker Containers · Sandboxed Test Runners
++ CLI_OPS      :: Linux CLI · Zsh / Bash Shell · Git Ops
+- TELEMETRY    :: TradingView CDP Telemetry & Quantitative Indicator Parsers
 ```
 
 <br/>
@@ -97,34 +95,34 @@ DEVOPS_AND_INFRASTRUCTURE:
   <img src="https://img.shields.io/badge/03-FLAGSHIP_SYSTEMS_%26_DEPLOYMENTS-ee5d43?style=for-the-badge&labelColor=232635&color=ee5d43" height="28" />
 </p>
 
-```yaml
-# ─── SYS_01: qa-e2e-tester ─────────────────────────────────────────────────────────────
-REPOSITORY  : "https://github.com/Minerky/qa-e2e-tester"
-TITLE       : "Autonomous QA Engine & Spec Generator"
-STACK       : [Playwright, TypeScript, GitHub-Actions-CI/CD]
-HIGHLIGHT   : "Engineered for exhaustive web and API validation with automated element discovery,
-               boundary stress testing, and structured report synthesis."
+```diff
++ [SYS_01] qa-e2e-tester ─────────────────────────────────────────────────────────────────────
++ REPOSITORY   :: https://github.com/Minerky/qa-e2e-tester
++ TITLE        :: Autonomous QA Engine & Spec Generator
+! STACK        :: Playwright · TypeScript · GitHub Actions CI/CD
+- HIGHLIGHT    :: Autonomous E2E testing pipeline engine featuring intelligent element discovery,
+                 boundary stress testing, and structured report synthesis.
 
-# ─── SYS_02: forex-intelligence-terminal ──────────────────────────────────────────────
-REPOSITORY  : "https://github.com/Minerky/forex-intelligence-terminal"
-TITLE       : "Real-Time Financial Telemetry Terminal"
-STACK       : [JavaScript-ESNext, REST-API, Market-Analytics]
-HIGHLIGHT   : "High-signal market intelligence engine parsing multi-timeframe indicators,
-               liquidity zones, and quantitative telemetry."
++ [SYS_02] forex-intelligence-terminal ───────────────────────────────────────────────────────
++ REPOSITORY   :: https://github.com/Minerky/forex-intelligence-terminal
++ TITLE        :: Real-Time Financial Telemetry Terminal
+! STACK        :: JavaScript (ESNext) · REST API · Market Analytics
+- HIGHLIGHT    :: High-signal market intelligence engine parsing multi-timeframe indicators,
+                 liquidity zones, and real-time quantitative telemetry.
 
-# ─── SYS_03: forex-signal-terminal ────────────────────────────────────────────────────
-REPOSITORY  : "https://github.com/Minerky/forex-signal-terminal"
-TITLE       : "Algorithmic Strategy Execution Engine"
-STACK       : [Python, TradingView-CDP, Quant-Execution]
-HIGHLIGHT   : "Quantitative screener engine integrating TradingView chart telemetry,
-               trend bias calculation, and automated execution matrices."
++ [SYS_03] forex-signal-terminal ─────────────────────────────────────────────────────────────
++ REPOSITORY   :: https://github.com/Minerky/forex-signal-terminal
++ TITLE        :: Algorithmic Strategy Execution Engine
+! STACK        :: Python · TradingView CDP · Quantitative Execution
+- HIGHLIGHT    :: Quantitative screener engine integrating TradingView chart telemetry,
+                 multi-timeframe trend bias, and automated risk-reward execution matrices.
 
-# ─── SYS_04: Ezky-Bookstore ───────────────────────────────────────────────────────────
-REPOSITORY  : "https://github.com/Minerky/Ezky-Bookstore"
-TITLE       : "Modular Full-Stack Web Application"
-STACK       : [React, Node.js, Tailwind-CSS, SQL-Database]
-HIGHLIGHT   : "Production-ready web application engineered with modular state flow,
-               responsive components, and strict schema validation."
++ [SYS_04] Ezky-Bookstore ────────────────────────────────────────────────────────────────────
++ REPOSITORY   :: https://github.com/Minerky/Ezky-Bookstore
++ TITLE        :: Modular Full-Stack Web Application
+! STACK        :: React · Node.js · Tailwind CSS · SQL Database
+- HIGHLIGHT    :: Production-ready web application engineered with modular state flow,
+                 responsive layout components, and strict schema validation.
 ```
 
 <br/>
@@ -154,10 +152,9 @@ HIGHLIGHT   : "Production-ready web application engineered with modular state fl
 
 <br/>
 
-```ini
-; ═════════════════════════════════════ [TERMINAL SESSION EOF] ═════════════════════════════════════
-[SESSION_CLOSED]
-STATUS       = "LOGOUT SUCCESSFUL"
-HOST         = "mainframe.minerky.dev"
-TERMINAL_SIG = "Minerky // Zero Defects // Andromeda Theme"
+```diff
++ [TERMINAL SESSION LOG] ──────────────────────────────────────────────────────────────────────
++ STATUS       :: LOGOUT SUCCESSFUL [EXIT_CODE: 0x00]
+! SESSION_SIG  :: Minerky // Zero Defects // Andromeda CLI
+- CONNECTION   :: CLOSED TO mainframe.minerky.dev
 ```
