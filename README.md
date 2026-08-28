@@ -1,39 +1,40 @@
 <div align="center">
 
-<!-- ═══════════════════════════ ANIMATED HERO HEADER ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=240&section=header&text=MINERKY&fontSize=58&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=%E2%8E%A0%20FULL--STACK%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58" width="100%" alt="Minerky Animated Header" />
+<!-- ═══════════════════════════ MATRIX CINEMATIC HERO ═══════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=250&section=header&text=MINERKY&fontSize=62&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=250&section=header&text=MINERKY&fontSize=62&fontColor=ffffff&animation=twinkle&fontAlignY=34&desc=%E2%8E%A0%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QA%20AUTOMATION%20ARCHITECT%20%E2%8E%A0&descFontSize=15&descColor=38bdf8&descAlignY=58" width="100%" alt="Cinematic Header" />
+</picture>
 
-<!-- Animated Dynamic Typing Stream -->
+<!-- Dynamic Terminal Typing Stream -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%E2%96%B8+Autonomous+E2E+Testing+%E2%80%A2+Zero-Defect+Playwright+Engines;%E2%96%B8+Full-Stack+Web+Architectures+%E2%80%A2+React+%2F+TypeScript+%2F+Node;%E2%96%B8+High-Signal+Telemetry+Terminals+%26+Automated+Scanners;%E2%96%B8+Engineering+Reliable%2C+Deterministic%2C+High-Craft+Software" alt="Animated Typing Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%96%B8+%5BINIT%5D+Autonomous+Playwright+E2E+Engines+%E2%80%A2+Zero-Defect+Gates;%E2%96%B8+%5BARCH%5D+High-Throughput+Web+Applications+%E2%80%A2+React+%2F+TypeScript;%E2%96%B8+%5BTELEMETRY%5D+Financial+Market+Terminals+%26+Indicator+Parsers;%E2%96%B8+%5BPHILOSOPHY%5D+Clean+Code+%E2%80%A2+High+Signal+%E2%80%A2+Minimal+Bloat" alt="Live Terminal Stream" />
 </p>
 
-<!-- Live Pulse Badges -->
+<!-- Interactive Live Status Matrix -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE_%E2%97%8F-059669?style=for-the-badge&logo=statuspage&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/CORE-TYPESCRIPT_%7C_PLAYWRIGHT-2563eb?style=for-the-badge&logo=typescript&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/STANDARDS-ZERO_DEFECTS-7c3aed?style=for-the-badge&logo=shield&logoColor=white" height="26" />
-  <img src="https://komarev.com/ghpvc/?username=Minerky&label=TELEMETRY_VIEWS&color=0f172a&style=for-the-badge" height="26" />
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/RUNNING-ONLINE-059669?style=for-the-badge&logo=statuspage&logoColor=white" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/PLAYWRIGHT-AUTOMATION-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/TYPESCRIPT-STRICT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="26" /></a>
+  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=HITS&color=0f172a&style=for-the-badge" height="26" /></a>
 </p>
 
 </div>
 
 <br/>
 
-<!-- ═════════════════════════ WORKSTATION TERMINAL SPEC ═════════════════════════ -->
+<!-- ═════════════════════════ WORKSTATION OPERATING CONSOLE ═════════════════════════ -->
 
-```ini
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║ MINERKY // WORKSTATION SPECIFICATION & RUNTIME MATRIX                               ║
-╠══════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                      ║
-║  OPERATOR      ::  Minerky (Rezky)                                                   ║
-║  CORE DOMAIN   ::  QA Automation Engineering · Full-Stack Systems · Telemetry Scanners║
-║  PIPELINE      ::  Playwright E2E · GitHub Actions CI/CD · Node.js · Python Engine   ║
-║  PHILOSOPHY    ::  "Exhaustive test gates. Clean architecture. Zero fluff."          ║
-║  TELEMETRY     ::  Automated Defect Discovery · Real-Time Chart Parsers              ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+┌── [MINERKY :: ROOT CONSOLE ENVIRONMENT] ──────────────────────────────────────────────┐
+│                                                                                       │
+│  OPERATOR     :: Minerky (Rezky)                                                      │
+│  DOMAIN       :: Automated Quality Assurance · Full-Stack Web Architecture            │
+│  SPECIALTY    :: E2E Automation Suites · Schema Verification · Financial Terminals    │
+│  STANDARDS    :: Zero-Defect Gating · Atomic State Models · Rigorous CI/CD Pipelines  │
+│  CORE STACK   :: TypeScript · Playwright · React · Node.js · Python · GitHub Actions  │
+│                                                                                       │
+└───────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -53,28 +54,31 @@
     <td width="33%" valign="top">
       <h4>🛡️ QA Automation & Gating</h4>
       <p>
-        <code>Playwright</code> · <code>E2E Test Suites</code><br/>
-        <code>Jest / Vitest</code> · <code>Contract Testing</code><br/>
-        <code>Boundary & Chaos Probes</code><br/>
-        <code>Automated Defect Synthesizer</code>
+        • <code>Playwright</code> Autonomous Suites<br/>
+        • <code>Jest / Vitest</code> Unit & Contract<br/>
+        • <code>Postman</code> Automated API Probes<br/>
+        • <code>Chaos & Stress</code> Boundary Audits<br/>
+        • Zero Missed Defects Standard
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4>💻 Full-Stack Architecture</h4>
+      <h4>💻 Full-Stack Web Core</h4>
       <p>
-        <code>TypeScript</code> · <code>JavaScript (ESNext)</code><br/>
-        <code>React</code> · <code>Next.js</code> · <code>Tailwind</code><br/>
-        <code>Node.js</code> · <code>REST API Services</code><br/>
-        <code>PostgreSQL</code> · <code>Schema Engines</code>
+        • <code>TypeScript</code> Strict Architecture<br/>
+        • <code>React / Next.js</code> Atomic Components<br/>
+        • <code>Node.js</code> High-Performance Services<br/>
+        • <code>Tailwind CSS</code> Precision Design<br/>
+        • <code>PostgreSQL / SQL</code> Schema Engines
       </p>
     </td>
     <td width="33%" valign="top">
       <h4>⚡ Delivery & Cloud Infra</h4>
       <p>
-        <code>GitHub Actions</code> · <code>CI/CD Gating</code><br/>
-        <code>Docker Containers</code> · <code>Linux / Bash</code><br/>
-        <code>Git Ops Flow</code> · <code>Security Hardening</code><br/>
-        <code>TradingView Pine Telemetry</code>
+        • <code>GitHub Actions</code> Test Pipelines<br/>
+        • <code>Docker</code> Isolated Test Containers<br/>
+        • <code>Linux / Bash</code> Telemetry Shell<br/>
+        • <code>Git Ops</code> Continuous Verification<br/>
+        • <code>TradingView CDP</code> Live Parsers
       </p>
     </td>
   </tr>
@@ -114,7 +118,7 @@
         <img src="https://img.shields.io/badge/CI%2FCD-Gating-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       </td>
       <td>
-        Autonomous QA pipeline engine with intelligent element discovery, boundary stress testing, automated schema validation, and instant test report generation.
+        Autonomous QA pipeline engine featuring intelligent element discovery, boundary stress testing, automated schema validation, and instant test report generation.
       </td>
     </tr>
     <tr>
@@ -157,7 +161,13 @@
 
 <br/>
 
-### ✦ 04 // REAL-TIME SYSTEM METRICS
+### ✦ 04 // REAL-TIME SYSTEM TELEMETRY
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Minerky&theme=tokyonight&hide_border=true&background=030712&ring=38BDF8&fire=38BDF8&currStreakLabel=94A3B8" width="98%" alt="Minerky Live Streak Telemetry" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Telemetry Profile" />
@@ -181,6 +191,6 @@
 </p>
 
 <!-- Animated Dynamic Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=120&section=footer" width="100%" alt="Footer Animated Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,22&height=120&section=footer" width="100%" alt="Footer Animated Wave" />
 
 </div>
