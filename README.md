@@ -1,98 +1,122 @@
 <div align="center">
 
-<!-- Header Editorial Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=111827&height=180&text=MINERKY&fontSize=42&fontColor=f3f4f6&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20QA%20Automation%20%C2%B7%20Full%E2%80%94Stack&descFontSize=14&descColor=9ca3af&descAlignY=64&stroke=1f2937&strokeWidth=1">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=111827&height=180&text=MINERKY&fontSize=42&fontColor=f3f4f6&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20QA%20Automation%20%C2%B7%20Full%E2%80%94Stack&descFontSize=14&descColor=9ca3af&descAlignY=64&stroke=1f2937&strokeWidth=1" width="100%" alt="Minerky Header" />
-</picture>
+```
+ █▀▄▀█ █ █▄ █ █▀▀ █▀█ █▄▀ █▄█
+ █ ▀ █ █ █ ▀█ ██▄ █▀▄ █ █  █ 
+```
+
+### `SOFTWARE ENGINEER & QA AUTOMATION ARCHITECT`
 
 <p align="center">
-  <code>Systems Architect</code> &nbsp;✦&nbsp; <code>Autonomous Test Automation</code> &nbsp;✦&nbsp; <code>TypeScript Ecosystems</code>
+  <b>Deterministic Systems</b> • <b>Autonomous Test Suites</b> • <b>Quantitative Interfaces</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/ENV-PRODUCTION%20READY-0f172a?style=flat&labelColor=020617&color=1e293b" alt="Environment" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/STANDARD-ZERO%20DEFECTS-0f172a?style=flat&labelColor=020617&color=1e293b" alt="Standard" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/LOCATION-ID%20%7C%20REMOTE-0f172a?style=flat&labelColor=020617&color=1e293b" alt="Location" /></a>
+  <img src="https://img.shields.io/badge/PLAYWRIGHT-E2E%20TESTING-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-ARCHITECT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/SYSTEM-ZERO%20DEFECTS-181717?style=for-the-badge&logo=githubactions&logoColor=58a6ff" height="22" />
 </p>
+
+---
 
 </div>
 
-<br/>
-
-```yaml
-# system.spec.yml — Engineer Identity & Scope
-identity:
-  handle: "Minerky"
-  role: "Software QA Engineer & Full-Stack Developer"
-  mantra: "Deterministic quality through exhaustive automation and clean code."
-
-engineering_stack:
-  runtime: ["TypeScript", "Node.js", "Python", "SQL"]
-  frontend: ["React", "Next.js", "Tailwind CSS", "Design Systems"]
-  testing: ["Playwright", "E2E Suites", "Contract / API Tests", "Chaos Probes"]
-  pipeline: ["GitHub Actions", "CI / CD Gates", "Linux CLI", "Git Ops"]
+```
+┌── [MINERKY :: WORKSTATION ENVIRONMENT] ──────────────────────────────────────────────┐
+│                                                                                      │
+│  USER         :: Minerky (Rezky)                                                    │
+│  SPECIALTY    :: End-to-End QA Engineering · Full-Stack Systems · Telemetry Scanners│
+│  PHILOSOPHY   :: "Zero defects shipped. High-signal architectures over boilerplate." │
+│  PIPELINE     :: Playwright · GitHub Actions CI/CD · Node.js · Python Engine         │
+│                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-### ✦ Technical Competency Index
+### 01 // CORE ENGINEERING STACK
 
 <div align="center">
-
-| Layer | Tools & Frameworks | Methodologies |
-| :--- | :--- | :--- |
-| **Quality & Assurance** | `Playwright` `Jest` `Vitest` `Postman` | E2E automation, boundary testing, zero-defect gating |
-| **Frontend Architecture** | `TypeScript` `React` `Next.js` `Tailwind` | Atomic UI, accessible states, high-perf rendering |
-| **Backend & Services** | `Node.js` `Python` `REST APIs` `SQL` | Schema-driven data, secure middleware, deep modules |
-| **Infrastructure & CI** | `GitHub Actions` `Git` `Docker` `Linux` | Automated pipeline gates, containerized test runners |
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Engineering Stack" />
+  </a>
 </div>
 
 <br/>
 
-### ✦ Featured Repositories & Implementations
+```
+  LAYER               FRAMEWORKS & TOOLS                       CORE METHODOLOGIES
+  ───────────────────────────────────────────────────────────────────────────────────────
+  [01] QA AUTOMATION  Playwright · Jest · Postman · HTTP API   Chaos & Stress Testing · Contract Gating
+  [02] FRONTEND       React · Next.js · TypeScript · Tailwind  Component Systems · State Telemetry
+  [03] BACKEND        Node.js · Python · Express · SQL         REST Services · Schema Ingestion
+  [04] CI/CD & OPS    GitHub Actions · Docker · Bash · Linux   Automated Test Gates · Continuous Audit
+```
+
+<br/>
+
+### 02 // SELECTED REPOSITORIES & SYSTEMS
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Minerky/qa-e2e-tester">🛡️ Minerky / qa-e2e-tester</a></h4>
-      <p>Autonomous end-to-end QA testing engine with Playwright integration, automated defect detection, stress suites, and structured report synthesis.</p>
-      <code>TypeScript</code> · <code>Playwright</code> · <code>CI/CD</code> · <code>QA Automation</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Minerky/forex-intelligence-terminal">📈 Minerky / forex-intelligence-terminal</a></h4>
-      <p>Real-time market analytics dashboard and quantitative signal scanner designed for low-latency technical telemetry and indicator parsing.</p>
-      <code>JavaScript</code> · <code>Full-Stack</code> · <code>Data Visualization</code> · <code>REST API</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Minerky/forex-signal-terminal">⚡ Minerky / forex-signal-terminal</a></h4>
-      <p>Multi-timeframe technical indicator parser and market strategy engine integrated with TradingView telemetry and multi-market screening.</p>
-      <code>Python</code> · <code>Quantitative Rules</code> · <code>Market Analytics</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Minerky/Ezky-Bookstore">📚 Minerky / Ezky-Bookstore</a></h4>
-      <p>Full-stack inventory and transaction management web application engineered with strict form validation and modular backend endpoints.</p>
-      <code>React</code> · <code>Node.js</code> · <code>Tailwind CSS</code> · <code>Database Schema</code>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="50%" align="left"><b>REPOSITORY / PROJECT</b></th>
+      <th width="50%" align="left"><b>DOMAIN & ARCHITECTURAL SCOPE</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Minerky/qa-e2e-tester">🛡️ qa-e2e-tester</a></b><br/>
+        <sub>Autonomous End-to-End Test Engine</sub>
+      </td>
+      <td>
+        Autonomous QA pipeline engine powered by Playwright with exhaustive boundary verification, chaos testing, and report generation.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Minerky/forex-intelligence-terminal">📈 forex-intelligence-terminal</a></b><br/>
+        <sub>Real-Time Financial Telemetry Terminal</sub>
+      </td>
+      <td>
+        High-signal market intelligence engine with multi-timeframe indicator parsers and low-latency quantitative telemetry.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Minerky/forex-signal-terminal">⚡ forex-signal-terminal</a></b><br/>
+        <sub>Algorithmic Strategy Execution Engine</sub>
+      </td>
+      <td>
+        Automated technical analysis screener integrating TradingView telemetry, multi-timeframe bias, and precision levels.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/Minerky/Ezky-Bookstore">📚 Ezky-Bookstore</a></b><br/>
+        <sub>Modular Full-Stack Application</sub>
+      </td>
+      <td>
+        Full-stack inventory and transaction management engine built with strict schema validation, state management, and clean APIs.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
 
-### ✦ Real-Time Profile Telemetry
+### 03 // LIVE SYSTEM TELEMETRY
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Telemetry Profile" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minerky&theme=nord_dark" width="49%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minerky&theme=nord_dark" width="49%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minerky&theme=nord_dark" width="49%" alt="Language Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minerky&theme=nord_dark" width="49%" alt="Commit Activity" />
 </div>
 
 <br/>
@@ -100,5 +124,12 @@ engineering_stack:
 ---
 
 <div align="center">
-  <sub><code>0xMINERKY</code> · Built with rigorous craftsmanship and precision.</sub>
+
+```
+[✦] MINERKY — ENGINEERED WITH PRECISION AND ARCHITECTURAL DISCIPLINE [✦]
+```
+
+<a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/GITHUB-MINERKY-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=Minerky&label=TELEMETRY%20VIEWS&color=1f2937&style=flat-square" alt="Views" />
+
 </div>
