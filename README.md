@@ -30,7 +30,7 @@
 ║ MINERKY // ROOT RUNTIME & ENGINEERING SPECIFICATION MATRIX                                    ║
 ╠════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                                ║
-║  OPERATOR      ::  Minerky (Rezky)                                                             ║
+║  OPERATOR      ::  Minerky                                                                     ║
 ║  DISCIPLINE    ::  Software Quality Engineering · Full-Stack Systems · Telemetry Scanners     ║
 ║  METHODOLOGY   ::  "Zero defects shipped. Test-first architecture. Uncompromising craft."      ║
 ║  CORE RUNTIME  ::  TypeScript · Playwright · React · Node.js · Python · GitHub Actions CI/CD   ║
