@@ -56,17 +56,17 @@ Infra / Ops ::  Git  ·  GitHub Actions  ·  Linux CLI  ·  Docker
 
 <br/>
 
-### ✦ Activity & Performance
+### ✦ GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minerky&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" width="49%" alt="Minerky Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minerky&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Minerky Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minerky&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" width="98%" alt="Minerky Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minerky&theme=nord_dark" width="49%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minerky&theme=nord_dark" width="49%" alt="Most Commit Language" />
 </div>
 
 <br/>
