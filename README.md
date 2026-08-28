@@ -172,12 +172,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Minerky&theme=tokyonight&hide_border=true&background=050811&border=00F0FF&stroke=00F0FF&ring=FF0055&fire=FF0055&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=94A3B8" width="98%" alt="Cyberpunk Live Streak Telemetry" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minerky&theme=nord_dark" width="98%" alt="Telemetry Profile" />
 </div>
 
