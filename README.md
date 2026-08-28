@@ -1,51 +1,46 @@
 <div align="center">
 
-<!-- ═══════════════════════════ CYBER CITY MAINFRAME HEADER ═══════════════════════════ -->
+<!-- ═══════════════════════════ HEADER BANNER ═══════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=270&section=header&text=MINERKY%20//%20NC-2077&fontSize=56&fontColor=00f0ff&animation=twinkle&fontAlignY=34&desc=%E2%8F%9F%20QA%20AUTOMATION%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20SYSTEMS%20%E2%8F%9F&descFontSize=14&descColor=f43f5e&descAlignY=58">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=270&section=header&text=MINERKY%20//%20NC-2077&fontSize=56&fontColor=00f0ff&animation=twinkle&fontAlignY=34&desc=%E2%8F%9F%20QA%20AUTOMATION%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20SYSTEMS%20%E2%8F%9F&descFontSize=14&descColor=f43f5e&descAlignY=58" width="100%" alt="Cyber City Header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=240&section=header&text=MINERKY&fontSize=56&fontColor=f8fafc&animation=twinkle&fontAlignY=36&desc=%E2%8E%A0%20Software%20QA%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%8E%A0&descFontSize=15&descColor=94a3b8&descAlignY=58">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=240&section=header&text=MINERKY&fontSize=56&fontColor=f8fafc&animation=twinkle&fontAlignY=36&desc=%E2%8E%A0%20Software%20QA%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%8E%A0&descFontSize=15&descColor=94a3b8&descAlignY=58" width="100%" alt="Minerky Header" />
 </picture>
 
-<!-- Neon Dynamic Typing Stream -->
+<!-- Dynamic Subtitle Typing Stream -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B8+%5BCORE_GRID%5D+Autonomous+Playwright+E2E+Engines+%E2%80%A2+Zero-Defect+Gates;%E2%96%B8+%5BNEURAL_NET%5D+High-Throughput+TypeScript+%2F+React+Web+Architectures;%E2%96%B8+%5BTELEMETRY%5D+Financial+Market+Terminals+%26+Algorithmic+Parsers;%E2%96%B8+%5BPROTOCOL%5D+Deterministic+Quality+%E2%80%A2+Cyberpunk+Engineering+Craft" alt="Cyber Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=%E2%96%B8+Autonomous+E2E+Testing+%E2%80%A2+Zero-Defect+Playwright+Suites;%E2%96%B8+Robust+Web+Applications+%E2%80%A2+TypeScript+%2F+React+%2F+Node.js;%E2%96%B8+Financial+Market+Terminals+%26+Automated+Telemetry+Scanners;%E2%96%B8+Crafting+Clean%2C+Reliable%2C+and+Maintainable+Codebases" alt="Dynamic Typing Stream" />
 </p>
 
-<!-- Cyber City HUD Status Pill Grid -->
+<!-- Clean Status Pill Badges -->
 <p align="center">
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/CYBER_GRID-ONLINE_%E2%97%8F-059669?style=for-the-badge&logo=statuspage&logoColor=00f0ff" height="26" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/PLAYWRIGHT-TEST_DEFENSE-00f0ff?style=for-the-badge&logo=playwright&logoColor=050811&labelColor=050811" height="26" /></a>
-  <a href="https://github.com/Minerky"><img src="https://img.shields.io/badge/SECURITY-ZERO_DEFECTS-f43f5e?style=for-the-badge&logo=target&logoColor=white&labelColor=050811" height="26" /></a>
-  <a href="https://github.com/Minerky"><img src="https://komarev.com/ghpvc/?username=Minerky&label=NET_HITS&color=7928ca&style=for-the-badge" height="26" /></a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-059669?style=flat-square&labelColor=0f172a&color=059669" height="22" />
+  <img src="https://img.shields.io/badge/FOCUS-QA%20%7C%20FULL--STACK-2563eb?style=flat-square&labelColor=0f172a&color=2563eb" height="22" />
+  <img src="https://img.shields.io/badge/STANDARD-ZERO%20DEFECTS-7c3aed?style=flat-square&labelColor=0f172a&color=7c3aed" height="22" />
+  <img src="https://komarev.com/ghpvc/?username=Minerky&label=VISITS&color=334155&style=flat-square" height="22" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- ═════════════════════════ CYBER CITY ROOT CONSOLE ═════════════════════════ -->
+<!-- ═════════════════════════ ABOUT & OVERVIEW ═════════════════════════ -->
 
-```
-╔════════════════════════════════════════════════════════════════════════════════════════════════╗
-║ [//] MINERKY_OS :: CYBER CITY CENTRAL MAINFRAME // SEC_LEVEL: 0xROOT                          ║
-╠════════════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                                ║
-║  OPERATOR_ID  ::  MINERKY                                                                      ║
-║  CLASS_TYPE   ::  QA Automation Architect · Full-Stack Systems Engineer · Telemetry Scanners   ║
-║  DIRECTIVE    ::  "Deploy unbreakable architectures. Terminate software defects at the gate." ║
-║  TECH_GRID    ::  TypeScript · Playwright · React · Node.js · Python · GitHub Actions CI/CD    ║
-║  MAINFRAME    ::  Real-Time E2E Test Pipelines · Financial Data Feeds · Cloud Containers       ║
-║                                                                                                ║
-╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+```ini
+[ENGINEER_SPECIFICATION]
+IDENTITY    = Minerky
+ROLE        = Software QA Engineer & Full-Stack Developer
+CORE_FOCUS  = Automated E2E Testing · Resilient Web Systems · Market Telemetry
+STANDARDS   = Deterministic Quality · Clean Architecture · Zero-Defect Releases
+TECH_STACK  = TypeScript · Playwright · React · Node.js · Python · GitHub Actions
 ```
 
 <br/>
 
-### ✦ 01 // NEURAL TECH MATRIX
+### ✦ 01 // Technical Arsenal
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Cyber Tech Matrix" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,next,tailwind,nodejs,postgres,git,githubactions,linux,docker,postman&theme=dark" alt="Technical Stack Icons" />
   </a>
 </div>
 
@@ -54,33 +49,33 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%" align="center"><font color="#00f0ff">🛡️ QA AUTOMATION DEFENSE</font></th>
-      <th width="33%" align="center"><font color="#f43f5e">💻 FULL-STACK CORE MATRIX</font></th>
-      <th width="33%" align="center"><font color="#a855f7">⚡ CI/CD & TELEMETRY OPS</font></th>
+      <th width="33%" align="left">🛡️ <b>QA Automation & Gating</b></th>
+      <th width="33%" align="left">💻 <b>Full-Stack Architecture</b></th>
+      <th width="33%" align="left">⚡ <b>CI/CD & DevOps Pipeline</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
         • <b>Playwright:</b> Autonomous E2E suites<br/>
-        • <b>API Defense:</b> Schema & contract testing<br/>
+        • <b>API Testing:</b> Schema & contract validation<br/>
         • <b>Chaos Probes:</b> Boundary & stress audits<br/>
-        • <b>Telemetry:</b> Automated defect synthesizers<br/>
-        • <b>Standard:</b> Zero missed defect bar
+        • <b>Verification:</b> Zero missed defect bar<br/>
+        • <b>Reporting:</b> Structured defect logs
       </td>
       <td valign="top">
         • <b>TypeScript:</b> Strict typed foundations<br/>
-        • <b>React / Next.js:</b> Modular UI systems<br/>
+        • <b>React / Next.js:</b> Modular UI components<br/>
         • <b>Node.js:</b> High-throughput REST services<br/>
-        • <b>Tailwind CSS:</b> Cyberpunk dark styling<br/>
-        • <b>PostgreSQL:</b> Structured data models
+        • <b>Tailwind CSS:</b> Clean, accessible interfaces<br/>
+        • <b>PostgreSQL / SQL:</b> Structured data modeling
       </td>
       <td valign="top">
         • <b>GitHub Actions:</b> Automated test runners<br/>
-        • <b>Docker:</b> Sandboxed test containers<br/>
-        • <b>Linux / Bash:</b> High-speed terminal tools<br/>
-        • <b>Git Ops:</b> Disciplined commit lifecycles<br/>
-        • <b>TradingView CDP:</b> Real-time parsers
+        • <b>Docker:</b> Sandboxed execution environments<br/>
+        • <b>Linux / Bash:</b> High-speed terminal workflows<br/>
+        • <b>Git Ops:</b> Disciplined branch lifecycles<br/>
+        • <b>TradingView CDP:</b> Real-time chart telemetry
       </td>
     </tr>
   </tbody>
@@ -88,79 +83,67 @@
 
 <br/>
 
-<!-- ════════════════════════ ZERO-DEFECT QUALITY PIPELINE ════════════════════════ -->
+<!-- ════════════════════════ TEST GATING PIPELINE ════════════════════════ -->
 
-### ✦ 02 // ZERO-DEFECT TEST DEFENSE PROTOCOL
+### ✦ 02 // Quality Assurance Gating Flow
 
 ```
   ┌───────────────────────┐       ┌───────────────────────┐       ┌───────────────────────┐       ┌───────────────────────┐
-  │  [01] STATIC PROBE    │ ────> │  [02] E2E PLAYWRIGHT  │ ────> │  [03] CHAOS INJECTION │ ────> │  [04] PRODUCTION NET  │
-  │  Typecheck · ESLint   │       │  Multi-Browser Web    │       │  API Boundary Gating  │       │  Zero-Defect Release  │
+  │  01. STATIC AUDIT     │ ────> │  02. E2E PLAYWRIGHT   │ ────> │  03. CHAOS & BOUNDARY │ ────> │  04. ZERO-DEFECT      │
+  │  Typecheck · ESLint   │       │  Multi-Browser Web    │       │  API Schema & Stress  │       │  Production Shipped   │
   └───────────────────────┘       └───────────────────────┘       └───────────────────────┘       └───────────────────────┘
 ```
 
 <br/>
 
-### ✦ 03 // FEATURED ENGINEERING SYSTEMS & FLAGSHIPS
+### ✦ 03 // Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <div align="left">
-        <h3>🛡️ <a href="https://github.com/Minerky/qa-e2e-tester"><font color="#00f0ff">qa-e2e-tester</font></a></h3>
-        <p><em>Autonomous E2E QA Test Engine & Report Synthesizer</em></p>
-        <p>Engineered for exhaustive web and API validation with automated element discovery, boundary stress testing, and structured report synthesis.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/CI%2FCD-Gating-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        </p>
-      </div>
+      <h4>🛡️ <a href="https://github.com/Minerky/qa-e2e-tester">qa-e2e-tester</a></h4>
+      <p>Autonomous end-to-end QA testing engine with Playwright integration, intelligent element discovery, boundary stress suites, and structured report synthesis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-Core-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI%2FCD-Gating-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <div align="left">
-        <h3>📈 <a href="https://github.com/Minerky/forex-intelligence-terminal"><font color="#f43f5e">forex-intelligence-terminal</font></a></h3>
-        <p><em>Real-Time Financial Telemetry & Intelligence Scanner</em></p>
-        <p>High-signal market intelligence engine parsing multi-timeframe indicators, liquidity zones, and quantitative telemetry.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-ESNext-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Analytics-Realtime-0284c7?style=flat-square" />
-          <img src="https://img.shields.io/badge/REST-Engine-339933?style=flat-square" />
-        </p>
-      </div>
+      <h4>📈 <a href="https://github.com/Minerky/forex-intelligence-terminal">forex-intelligence-terminal</a></h4>
+      <p>Real-time financial market analytics dashboard and quantitative scanner designed for multi-timeframe indicator telemetry and liquidity mapping.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-ESNext-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Analytics-Realtime-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/REST-API-339933?style=flat-square" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="left">
-        <h3>⚡ <a href="https://github.com/Minerky/forex-signal-terminal"><font color="#a855f7">forex-signal-terminal</font></a></h3>
-        <p><em>Algorithmic Strategy Execution & Telemetry Screener</em></p>
-        <p>Quantitative screener integrating TradingView chart telemetry, multi-timeframe trend bias, and automated risk-reward execution rules.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-Engine-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/TradingView-CDP-131722?style=flat-square&logo=tradingview&logoColor=white" />
-          <img src="https://img.shields.io/badge/Strategy-Quant-f59e0b?style=flat-square" />
-        </p>
-      </div>
+      <h4>⚡ <a href="https://github.com/Minerky/forex-signal-terminal">forex-signal-terminal</a></h4>
+      <p>Quantitative strategy execution engine integrating TradingView chart telemetry, multi-timeframe bias calculation, and risk-reward execution rules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Engine-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TradingView-CDP-131722?style=flat-square&logo=tradingview&logoColor=white" />
+        <img src="https://img.shields.io/badge/Quant-Execution-f59e0b?style=flat-square" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <div align="left">
-        <h3>📚 <a href="https://github.com/Minerky/Ezky-Bookstore"><font color="#10b981">Ezky-Bookstore</font></a></h3>
-        <p><em>Modular Full-Stack Application & Schema Engine</em></p>
-        <p>Production-ready web application engineered with modular state flow, responsive layout components, and structured database storage.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        </p>
-      </div>
+      <h4>📚 <a href="https://github.com/Minerky/Ezky-Bookstore">Ezky-Bookstore</a></h4>
+      <p>Modular full-stack web application engineered with clean state management, responsive component hierarchy, and strict database schema validation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### ✦ 04 // MAINFRAME ACTIVITY & LIVE GRID SNAKE
+### ✦ 04 // Activity & Contribution Grid
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Minerky/Minerky/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Dark" />
@@ -186,10 +169,10 @@
 <div align="center">
 
 <p align="center">
-  <sub><code>0xMINERKY // NC-2077</code> • ENGINEERED IN CYBER CITY • ZERO-DEFECT QUALITY ARCHITECTURE</sub>
+  <sub><code>0xMINERKY</code> // CRAFTED WITH ARCHITECTURAL RIGOR • ZERO-DEFECT QUALITY ENGINEERING</sub>
 </p>
 
-<!-- Cyberpunk Waving Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24,30&height=130&section=footer" width="100%" alt="Cyberpunk Footer Wave" />
+<!-- Smooth Dark Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
