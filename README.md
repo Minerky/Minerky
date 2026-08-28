@@ -1,5 +1,10 @@
 <div align="center">
 
+```
+ █▀▄▀█ █ █▄ █ █▀▀ █▀█ █▄▀ █▄█
+ █ ▀ █ █ █ ▀█ ██▄ █▀▄ █ █  █ 
+```
+
 <!-- ═══════════════════════════ HEADER BANNER ═══════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,20&height=240&section=header&text=MINERKY&fontSize=56&fontColor=f8fafc&animation=twinkle&fontAlignY=36&desc=%E2%8E%A0%20Software%20QA%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%8E%A0&descFontSize=15&descColor=94a3b8&descAlignY=58">
